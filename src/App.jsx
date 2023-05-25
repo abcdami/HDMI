@@ -8,6 +8,7 @@ function App() {
       <div className="bg-red-100 w-20 h-20">box</div>
       <div className="bg-red-100 w-20 h-20">box</div>
       <div className="bg-red-100 w-20 h-20">box</div>
+      <div className="bg-green-100 w-20 h-20">box</div>
     </div>
   );
 }
